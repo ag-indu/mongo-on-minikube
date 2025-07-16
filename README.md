@@ -25,8 +25,7 @@ It includes:
 
 ## Techstack
 
-1.  Tech Stack
-2.  Kubernetes
-3.  Minikube
-4.  MongoDB
-5.  Mongo Express
+1.  Kubernetes
+2.  Minikube
+3.  MongoDB
+4.  Mongo Express
